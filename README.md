@@ -1,3 +1,4 @@
+<img width="260" height="260" alt="adi" src="https://github.com/user-attachments/assets/70a3a8f4-fee7-481e-bd83-6856ce9c4028" />
 # 👋 Hi, I'm Aditya Kumar
 <p align="center">
   <img src="/Users/adityasingh/Documents/images/adi.png" width="260" height="260" alt="Aditya Singh">
