@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Aditya Kumar
-<div align="center">
-  <img src="./images/adi.png" width="100" height="100" 
-       style="border-radius: 50%;" alt="aditya">
-</div>
-### 🎓 BCA Student | Aspiring Software Developer | UI & Web Development Enthusiast
+<img width="1254" height="1254" alt="adi" src="https://github.com/user-attachments/assets/46500a42-928f-4600-8e26-27d0bc092339" />
+<img src="./images/adi.png" width="80" alt="aditya">
+
+🎓 BCA Student | Aspiring Software Developer | UI & Web Development Enthusiast
 
 I'm a BCA student passionate about **software development, web technologies, UI design, and problem-solving**. I enjoy building practical projects, learning new technologies, and continuously improving my programming skills.
 
