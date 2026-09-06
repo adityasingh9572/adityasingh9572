@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Aditya Kumar
+<img width="1254" height="1254" alt="adi" src="https://github.com/user-attachments/assets/0dc4d3ce-cb40-47cb-b7ec-7d1e9867f27c" />
 <div align="center">
-  <img src="file:///Users/adityasingh/Documents/images/adi.png" 
-       width="180" 
-       alt="Aditya Kumar">
+  <img src="./adi.png" width="180" alt="Aditya Singh">
 </div>
 ### 🎓 BCA Student | Aspiring Software Developer | UI & Web Development Enthusiast
 
