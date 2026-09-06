@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Aditya Kumar
+<div align="center">
+  <img src="YOUR-IMAGE-URL" width="180" alt="Aditya Kumar">
+</div>
 
 ### 🎓 BCA Student | Aspiring Software Developer | UI & Web Development Enthusiast
 
